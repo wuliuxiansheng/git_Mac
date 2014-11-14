@@ -1,0 +1,17 @@
+[user]
+	name = wuliuxiansheng
+	email = chao.liu0307@gmail.com
+
+[credential]
+	helper = osxkeychain
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+  	type = cat-file -t
+  	dump = cat-file -p
+[core]
+	autocrlf = false
+	safecrlf = true
+	editor = emacs
+
+[push]
+	default = matching
