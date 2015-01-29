@@ -11,6 +11,7 @@
 [core]
 	autocrlf = false
 	safecrlf = true
+	excludesfile = /Users/chaoliu/.gitignore
 
 [push]
 	default = matching

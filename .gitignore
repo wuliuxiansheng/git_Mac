@@ -6,3 +6,7 @@
 # autogen files
 *.pro
 *.scr
+
+# OS generated files #
+.DS_Store
+.DS_Store?
