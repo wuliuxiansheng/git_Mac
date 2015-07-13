@@ -1,5 +1,5 @@
 [user]
-	name = wuliuxiansheng
+	name = Chao Liu
 	email = chao.liu0307@gmail.com
 
 [credential]
@@ -12,6 +12,7 @@
 	autocrlf = false
 	safecrlf = true
 	excludesfile = /Users/chaoliu/.gitignore
+	editor = vi
 
 [push]
 	default = matching
