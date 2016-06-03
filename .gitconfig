@@ -1,6 +1,6 @@
 [user]
 	name = Chao Liu
-	email = chao.liu0307@gmail.com
+	email = chaoliu@seas.upenn.edu
 
 [credential]
 	helper = osxkeychain
@@ -9,7 +9,7 @@
   	type = cat-file -t
   	dump = cat-file -p
 [core]
-	autocrlf = false
+	autocrlf = input
 	safecrlf = true
 	excludesfile = /Users/chaoliu/.gitignore
 	editor = vi
